@@ -82,7 +82,7 @@ BODY {
   background-color: #111111;
   font-weight: lighter;
   font-family: "Barlow";
-  background-image: url("./images/backgrounds/3.png");
+  background-image: url("/images/backgrounds/3.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
