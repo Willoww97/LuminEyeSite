@@ -964,7 +964,7 @@ MAIN {
 
 .techText{
   padding: 1.5% 20% 1.5% 20%;
-  background-color:#242424;
+  background-image: linear-gradient(black, rgba(255,84,0,0.2) 0%, black);
 }
 .tablet{
   padding-top: 2.5vh;
@@ -975,13 +975,13 @@ MAIN {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-image: linear-gradient(black, #000433, black);
+  background-image: linear-gradient(black, rgba(255,84,0,0.2), black);
 }
 
 
 .caseOne{
   padding: 1.5% 20% 1.5% 20%;
-  background-color:#242424;  
+  background-image: linear-gradient(black, rgba(14,14,68,1) 0%, black);
 }
 
 
